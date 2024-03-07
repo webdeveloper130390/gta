@@ -331,9 +331,7 @@ input:focus::after {
     color: white;
     width: 900px;
 }
-.update{
-    padding: 56px;
-}
+
 .title__update{
     color: orange;
     text-shadow: 1px 1px 2px rgb(191, 23, 23), 0 0 1em rgb(255, 200, 0);
@@ -447,4 +445,16 @@ input:focus::after {
 .working__item{
     display: flex;
     align-items: center;
+}
+
+.dfg{
+    display: flex;
+}
+
+.second__card{
+    margin-top: -850px;
+}
+
+.update{
+    padding: 0 0 0 56px;
 }
