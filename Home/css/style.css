@@ -90,7 +90,9 @@ input:focus::after {
 .Support {
     color: white;
 }
-
+.Store{
+    color: white;
+}
 .navbar-nav {
     margin-left: 70px;
     margin-bottom: 30px;
